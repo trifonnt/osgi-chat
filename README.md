@@ -1,6 +1,6 @@
 # Lean Microservices 
 
-The lean microservices talk shows the limitations of the popular spring boot model to decvelop microservices.
+The lean microservices talk shows the limitations of the popular spring boot model to develop microservices.
 It then shows OSGi with some extensions for packaging and remote communication as an alternative development model
 that is simpler for the individual module developers while providing a lot more flexibility at deployment time. 
 
